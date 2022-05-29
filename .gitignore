@@ -1,2 +1,5 @@
 /target
 /node_modules
+jarvis.node
+package-template.darwin-arm64.node
+package-template.nodey
